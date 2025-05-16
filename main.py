@@ -32,3 +32,5 @@
 # настройки профиля того, кто отправляет изменения
 # git config user.name "Username профиля на гитхаб"
 # git config user.email "почта профиля"
+
+# AD guard vpn
