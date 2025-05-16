@@ -18,7 +18,7 @@ var swiper2 = new Swiper(".mySwiper2", {
 
 const url = 'https://djangoblogvtpt1930.pythonanywhere.com/api/v1'
 
-fetch(url)
+fetch(`${url}/categories/`)
   .then((response) => {
     return response.json();
   })
